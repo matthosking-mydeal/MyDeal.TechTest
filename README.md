@@ -21,6 +21,6 @@ Your checklist for submitting:
 
 ## Tips
 
-* Commit a number of times to show your pgoression.
+* Commit a number of times to show your progression.
 * Add comments in the code where it's unclear.
 * Don't be afraid to leave something for future improvement (and let us know what your thoughts were!)
