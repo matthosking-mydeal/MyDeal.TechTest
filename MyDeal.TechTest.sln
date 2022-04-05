@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDeal.TechTest", "MyDeal.T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDeal.TechTest.Services", "MyDeal.TechTest.Services\MyDeal.TechTest.Services.csproj", "{8EC102E4-FFAA-4E46-A076-96F265618239}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDeal.TechTest.Services.Tests", "MyDeal.TechTest.Services.Tests\MyDeal.TechTest.Services.Tests.csproj", "{C34C6DEE-9E50-45CC-BA0B-CD76EE5DDD7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8EC102E4-FFAA-4E46-A076-96F265618239}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EC102E4-FFAA-4E46-A076-96F265618239}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EC102E4-FFAA-4E46-A076-96F265618239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C34C6DEE-9E50-45CC-BA0B-CD76EE5DDD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C34C6DEE-9E50-45CC-BA0B-CD76EE5DDD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C34C6DEE-9E50-45CC-BA0B-CD76EE5DDD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C34C6DEE-9E50-45CC-BA0B-CD76EE5DDD7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
